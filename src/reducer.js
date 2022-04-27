@@ -1,9 +1,9 @@
 export const initialState = {
-    term: null,
+    user: null,
 };
 
 export const actionTypes = {
-    SET_SEARCH_TERM: "SET_SEARCH_TERM",
+    SET_USER: "SET_USER",
 };
 
 
@@ -13,13 +13,13 @@ function reducer(state, action) {
     // console.log(action);
 
     switch (action.type) {
-        case actionTypes.SET_SEARCH_TERM:
+        case actionTypes.SET_USER:
 
             // console.log('Hello World');
 
             return {
                 ...state,
-                term: action.term,
+                user: action.user,
             };
 
         default:

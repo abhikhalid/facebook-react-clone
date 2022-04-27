@@ -8,3 +8,5 @@
 //Firebase Hosting
 //Firebase Google Authentication (FULL LOGIN!)
 //React Flip Move
+
+Hosting URL: https://facebook-react-clone-c2cfc.web.app

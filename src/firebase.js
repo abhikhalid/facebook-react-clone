@@ -3,12 +3,12 @@ import "firebase/compat/auth"
 import "firebase/compat/firestore"
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDkLs11nJEsKS69RNuCgrFSng7hnQgkWlI",
-    authDomain: "react-clone-62981.firebaseapp.com",
-    projectId: "react-clone-62981",
-    storageBucket: "react-clone-62981.appspot.com",
-    messagingSenderId: "276768378322",
-    appId: "1:276768378322:web:98385c2647acc12ac18c0b"
+    apiKey: "AIzaSyDTkxBfVxKxDp2zKxLmAYeCe010w6Uutps",
+    authDomain: "facebook-react-clone-c2cfc.firebaseapp.com",
+    projectId: "facebook-react-clone-c2cfc",
+    storageBucket: "facebook-react-clone-c2cfc.appspot.com",
+    messagingSenderId: "877961940160",
+    appId: "1:877961940160:web:6bf67210a31aba63e9f125"
 };
 const firebaseApp = firebase.initializeApp(firebaseConfig);
 
